@@ -20,13 +20,13 @@ Full Stack e-commerce website developed with React and Node.js.
 ## 📸 Screenshots
 
 ### Home Page
-![Home](./screenshots/home.png)
+![Home](./screenshots/home2.png)
 
 ### Products Page
 ![Products](./screenshots/products.png)
 
 ### Cart
-![Cart](./screenshots/cart.png)
+![Cart](./screenshots/basket.png)
 
 ## ▶️ Run the Project
 
