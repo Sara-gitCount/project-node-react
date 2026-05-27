@@ -25,8 +25,8 @@ Full Stack e-commerce website developed with React and Node.js.
 ### Products Page
 ![Products](./screenshots/products.png)
 
-### Cart
-![Cart](./screenshots/basket.png)
+### Basket
+![Basket](./screenshots/Basket.png)
 
 ## ▶️ Run the Project
 
